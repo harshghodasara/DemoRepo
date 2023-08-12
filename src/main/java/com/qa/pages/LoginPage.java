@@ -8,6 +8,13 @@ public class LoginPage {
 		
 			System.out.println("Test Method");
 		
+			
+		}
+		
+		public void loginset(){
+			
+			System.out.println("Test Method");
+		
 		}
 
 }
